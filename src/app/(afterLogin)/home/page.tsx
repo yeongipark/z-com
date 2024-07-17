@@ -2,9 +2,5 @@ import Image from "next/image";
 import styles from "./page.module.css";
 
 export default function Home() {
-  return (
-    <div >
-      hello
-    </div>
-  );
+  return <div>홈화면</div>;
 }
