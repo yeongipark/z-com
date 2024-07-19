@@ -13,7 +13,6 @@
 }
 
 .leftSection {
-  background-color: orange;
   width: 275px;
   height: 100dvh;
 }
@@ -40,7 +39,6 @@
 }
 
 .rightSectionInner {
-  background-color: aqua;
   height: 100%;
   width: 990px;
   display: flex;
@@ -49,11 +47,9 @@
 
 .main {
   width: 600px;
-  background-color: red;
 }
 
 .rightSection {
-  background-color: blue;
   width: 350px;
   height: 100%;
 }
@@ -62,7 +58,6 @@
   position: fixed;
   width: inherit; /* 부모의 값을 그대로 가져옴 */
   height: 100dvh;
-  background-color: orange;
   display: flex;
   flex-direction: column;
 }
