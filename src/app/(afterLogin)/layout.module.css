@@ -132,3 +132,16 @@
 .postButton:hover {
   background-color: rgb(26, 140, 216);
 }
+
+.followRecommend {
+  font-size: 20px;
+  font-weight: bold;
+  background-color: rgb(247, 249, 249);
+  border-radius: 16px;
+  margin: 12px 0;
+  padding: 6px 16px;
+}
+
+.followRecommend h3 {
+  padding-bottom: 6px;
+}
